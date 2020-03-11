@@ -1,24 +1,3 @@
-# README
+This is the front-end of a cookbook application. The user will be able to add recipes to their personal cookbook, including details like type of meal, dietary restrictions, and notes. Users will also be able to filter and sort recipes by ingredients, dietary restrictions, and type of meal.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Created by Rachel Novick 2020
